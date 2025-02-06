@@ -36,3 +36,4 @@ if needed change row 22  as example:
 
 8) Submit a test response to make sure it works.
 
+Other nice Git is: https://github.com/Kelo/Google-Forms-to-Discord-Extended/tree/master if you want a different way!
